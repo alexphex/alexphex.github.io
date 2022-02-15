@@ -63,7 +63,6 @@ header {
         height: 3px;
         width: 100%;
         position: absolute;
-        background: #515758;
         margin: 0 auto;
     }
     .menu-burger__header span{
@@ -104,10 +103,7 @@ header {
         position: absolute;
         top: 55px;
         left: 0;
-        background: rgb(245, 246, 246);
-        box-shadow: #ccc;
         width: 100%;
-        box-shadow: 0 4px 2px -2px rgba(36, 36, 36, 0.17);
         left: -100%;
         transition: all 0.4s ease;
     }
